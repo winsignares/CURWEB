@@ -1,8 +1,9 @@
 body{
-    background-color: lightseagreen;
+    background-color: pink;
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(59, 196, 128);
 }
 h1{
     font-size: xx-large;
