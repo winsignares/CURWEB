@@ -1,7 +1,8 @@
 body{
-    background-color: pink;
+   /* background-color: pink;*/
+   background-image: url(../img/dog.jpg);
 }
-p{
+p{ 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(59, 196, 128);
 }
