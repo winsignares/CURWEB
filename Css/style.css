@@ -1,6 +1,7 @@
 body{
    /* background-color: pink;*/
-   background-image: url(fondo.jpg);
+   background-image: url(../img/fondo.jpg) ;
+   background-color: transparent;
 }
 p{ 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
